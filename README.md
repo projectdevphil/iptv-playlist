@@ -72,7 +72,7 @@ This playlist contains links to publicly available video streams from the intern
 
 ## 📜 License
 
-This project is licensed under the ![MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
