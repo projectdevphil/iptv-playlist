@@ -1,6 +1,6 @@
 ![IPTV Playlist by Project Dev](https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path2/assets/iptv_playlist_poster1.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ryansnetcafe/ott-playlist?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/projectdevphil/iptv-playlist?)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
