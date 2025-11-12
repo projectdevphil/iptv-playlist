@@ -1,8 +1,8 @@
 ![IPTV Playlist by Project Dev](https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path2/assets/iptv_playlist_poster1.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/projectdevphil/iptv-playlist?)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/projectdevphil/iptv-playlist)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A curated M3U playlist featuring a selection of publicly available MPEG-DASH streams for personal use. This playlist is optimized for players that support the KODIPROP properties for adaptive streaming.
 
