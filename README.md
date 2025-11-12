@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A curated M3U playlist featuring a selection of publicly available MPEG-DASH streams for personal use. This playlist is optimized for players that support the KODIPROP properties for adaptive streaming.
+A curated M3U playlist featuring a selection of publicly available MPEG-DASH or HLS streams for personal use. This playlist is optimized for players that support the KODIPROP properties for adaptive streaming.
 
 ---
 
@@ -76,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Developer
+## 🧑🏻‍💻 Developer
 
 This playlist is maintained by:
 
