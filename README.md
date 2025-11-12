@@ -60,9 +60,9 @@ This playlist contains links to publicly available video streams from the intern
 -   This project is intended for **personal and educational purposes only**. Users are responsible for ensuring they are not violating any copyright laws in their respective countries.
 -   The developer is not responsible for the content of the streams.
 
-## 📜 License
+## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🧑🏻‍💻 Developer
 
