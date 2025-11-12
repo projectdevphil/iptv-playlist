@@ -6,8 +6,6 @@
 
 A curated M3U playlist featuring a selection of publicly available MPEG-DASH or HLS streams for personal use. This playlist is optimized for players that support the KODIPROP properties for adaptive streaming.
 
----
-
 ## 📋 Table of Contents
 
 - [How to Use](#-how-to-use)
@@ -15,8 +13,6 @@ A curated M3U playlist featuring a selection of publicly available MPEG-DASH or 
 - [Disclaimer](#-disclaimer)
 - [License](#-license)
 - [Developer](#-developer)
-
----
 
 ## 🚀 How to Use
 
@@ -42,8 +38,6 @@ Follow these simple steps to start watching the channels from this playlist.
 5.  **Load Channels & EPG**:
     The application will now load the channels and the Electronic Program Guide (EPG) data from the URL specified in the M3U file. Enjoy the streams!
 
----
-
 ## 📱 Compatible Apps
 
 This playlist is designed to work with any modern IPTV player that supports M3U playlists and MPEG-DASH streams. For the best experience with Clearkey DRM, we recommend using players that properly handle KODIPROP tags.
@@ -57,8 +51,6 @@ This playlist is designed to work with any modern IPTV player that supports M3U 
 
 > **Note:** For players like Kodi, you need to have the **InputStream Adaptive** add-on installed and enabled for MPEG-DASH streams to work correctly.
 
----
-
 ## ⚠️ Disclaimer
 
 This playlist contains links to publicly available video streams from the internet.
@@ -68,13 +60,9 @@ This playlist contains links to publicly available video streams from the intern
 -   This project is intended for **personal and educational purposes only**. Users are responsible for ensuring they are not violating any copyright laws in their respective countries.
 -   The developer is not responsible for the content of the streams.
 
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🧑🏻‍💻 Developer
 
