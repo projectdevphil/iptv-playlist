@@ -27,7 +27,7 @@ Follow these simple steps to start watching the channels from this playlist.
 1.  **Copy the Playlist URL**:
     Right-click on the raw M3U file link from this repository and copy the URL. The URL should look something like this:
     ```
-    https://raw.githubusercontent.com/YourUsername/YourRepo/main/playlist.m3u
+    https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path/cignal/index.m3u
     ```
 
 2.  **Open Your IPTV Player**:
