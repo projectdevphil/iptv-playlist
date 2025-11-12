@@ -1,6 +1,5 @@
 # IPTV Playlist
-![IPTV Playlist by Project Dev]
-(https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path2/assets/iptv_playlist_poster.png)
+![IPTV Playlist by Project Dev](https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path2/assets/iptv_playlist_poster.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ryansnetcafe/ott-playlist?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
@@ -74,7 +73,7 @@ This playlist contains links to publicly available video streams from the intern
 
 ## 📜 License
 
-This project is licensed under the ![MIT License] (LICENSE).
+This project is licensed under the ![MIT License](LICENSE).
 
 ---
 
@@ -82,7 +81,6 @@ This project is licensed under the ![MIT License] (LICENSE).
 
 This playlist is maintained by:
 
-![Project Dev (Horizontal Poster)]
-(https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path2/assets/project_dev_(horizontal_poster).png)
+![Project Dev (Horizontal Poster)](https://raw.githubusercontent.com/projectdevphil/iptv-playlist/refs/heads/new-path2/assets/project_dev_(horizontal_poster).png)
 
 Feel free to open an issue if you find any broken links or have suggestions for new channels.
